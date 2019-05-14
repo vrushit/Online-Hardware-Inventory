@@ -5,7 +5,7 @@ This Web App is made using NodeJS and Routing functionalities(some sections).
 
 To run the App on your Browser you must follow these Steps:
 
-Step 1. Copy all the files and folders(parent) in one single folder.
+Step 1. Copy all the files and folders in one single folder(parent).
 
 Step 2. Open that folder(parent) in CMD(Command Prompt).
 
