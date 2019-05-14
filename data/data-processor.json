@@ -1,0 +1,47 @@
+[
+    {
+        "id": "0",
+        "productName": "Intel G4560",
+        "image": "p1.jpg",
+        "company":"Intel",
+        "price": "9475",
+        "description": "7th Genenration Pentium Dual Core Processor, 4GB, GDDR4, 500GB Harddrive, eSATA"
+    },
+    {
+        "id": "1",
+        "productName": "Intel Core i5-8400 BX80684I58400 Processor ",
+        "image": "p2.jpg",
+        "company": "Intel",
+        "price": "18,999",
+        "description": "DDR4 SDRAM, 2.8GHz, 11.9 x 10.7, Fan/Heatsink, Manal Processor "
+    },
+
+    {
+        "id": "2",
+        "productName": "Zotac Nvidia GT 1030 2GB GDDR5 64-Bit DVI-D HDMI Retail Graphic card / Pascal / Firestorm / 384 Cuda core /DirectX 12",
+        "image": "g3.jpg",
+        "company": "Zotac",
+        "price": "7298",
+        "description": "CUDA CORE:384, CLOCK:6.0 GHz"
+    },
+    {
+        "id": "3",
+        "productName": "Intel BX80684I78700K 8th Gen Core i7-8700K 3.7 GHz Processor  ",
+        "image": "p4.jpg",
+        "company": "Intel",
+        "price": "38987",
+        "description": "Core i7-8700k, Lithium ion Batteries, 3.7 GHx, DDR4 SDRAM, 240 volts"
+    },
+  
+    {
+        "id": "4",
+        "productName": "Intel Core i9 9900K Coffee Lake 8-Core",  
+        "image": "p5.jpg",
+        "company": "Intel",
+        "price": "58100",
+        "description": "16-Thread, 3.6 GHz (5.0 GHz Turbo) LGA 1151 (300 Series) 95W BX80684I99900K Desktop Processor Intel UHD Graphics 630 "
+    }
+   
+]
+
+

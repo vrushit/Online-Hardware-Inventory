@@ -1,0 +1,25 @@
+Account :
+<i class="material-icons">
+settings
+</i>
+Home:
+<i class="material-icons">
+home
+</i>
+
+Settings: 
+
+Category :
+<i class="material-icons">
+storage
+</i>
+
+Search:
+<i class="material-icons">
+search
+</i>
+
+Info :
+<i class="material-icons">
+error_outline
+</i>

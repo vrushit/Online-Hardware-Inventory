@@ -1,0 +1,47 @@
+[
+    {
+        "id": "0",
+        "productName": "GIGABYTE GeForce GT 1030 GV-N1030D5-2GL",
+        "image": "v1.jpg",
+        "company":"Gigabyte",
+        "price": "6575",
+        "description": "Low Profile 2G Computer Graphics Card , Nvidia GDDR5 , 2GB RAM Size"
+    },
+    {
+        "id": "1",
+        "productName": "Zotac GT 710 ",
+        "image": "v2.jpg",
+        "company": "Zotac",
+        "price": "3274",
+        "description": "2GB DDR3 Zone Edition Graphics Card, Nvidia GeForce , 2GB RAM, DDR3 SDRAM "
+    },
+
+    {
+        "id": "2",
+        "productName": "inno3D Nvidia Gaming Geforce RTX 2080 Ti ",
+        "image": "v3.jpg",
+        "company": "Inno3D",
+        "price": "113799",
+        "description": "Gaming Oc X3 11Gb Gddr6 Graphic Card , 600 watts, "
+    },
+    {
+        "id": "3",
+        "productName": "Gigabyte GV-N1050G1 Gaming-2GD Graphics Card (GV-N1050G1 Gaming-2GD)",
+        "image": "v4.jpg",
+        "company": "Gigabyte",
+        "price": "38987",
+        "description": "PCIE-3.0x16/128 bit/HDMIx3/DP/Dual-Link DVI-D/With BackPlate , GeForce GTX, GDDR5 , 4GB"
+    },
+  
+    {
+        "id": "4",
+        "productName": "INNO3D NVIDIA ",  
+        "image": "v5.jpg",
+        "company": "Inno3D",
+        "price": "67384",
+        "description": "Gaming GEFORCE RTX 2080 Twin X2 8GB GDDR6 Graphic Card"
+    }
+   
+]
+
+

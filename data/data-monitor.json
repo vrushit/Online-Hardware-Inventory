@@ -1,0 +1,54 @@
+[
+    {
+        "id": "0",
+        "productName": "Acer Predator Z271U 27 Inch Gaming Monitor",
+        "image": "m1.jpg",
+        "company":"Acer",
+        "price": "54,799",
+        "description": "1800R, 27 WQHD Zero Frame display.NVIDIA G-SYNC, with a powerful graphics card."
+    },
+    {
+        "id": "1",
+        "productName": "LG (27UK650) 27 Inch 4K IPS Monitor",
+        "image": "m2.jpg",
+        "company": "LG",
+        "price": "34990",
+        "description": "27 inch IPS Display, 4k, LED Backlit Backlight, IPS Panel, Flat"
+    },
+
+    {
+        "id": "2",
+        "productName": "HP 22es (T3M70AA) 21.5 Inch LED Monitor",
+        "image": "m3.jpg",
+        "company": "HP",
+        "price": "8099",
+        "description": "21.5 inch IPS LED Display, Natural Silver, , 3D, Full HD, Anti-glre, On-screen controls"
+    },
+    {
+        "id": "3",
+        "productName": "Samsung LC24F390FHWXXL 23.6 inch Curved Monitor",
+        "image": "m4.jpg",
+        "company": "Samsung",
+        "price": "8999",
+        "description": "23.5 inch LED Backlist Display , LED Backlist, 1920 X 1080 pixels, HDMI, Curved"
+    },
+   
+    {
+        "id": "4",
+        "productName": "Dell E2016H 20-Inch Screen Monitor",
+        "image": "m5.jpg",
+        "company": "Dell",
+        "price": "5099",
+        "description": "19.5 inch LED Display, Screen Form Factor Flat"
+    },
+    {
+        "id": "5",
+        "productName": "Zebronics Zeb 16A 16 Inch LED HD Monitor",  
+        "image": "m6.jpg",
+        "company": "Zebronics",
+        "price": "3232",
+        "description": "16 inch LED Display, 1366 x 788 pixels, Full HD, Flat"
+    }
+]
+
+

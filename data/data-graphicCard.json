@@ -1,0 +1,72 @@
+[
+    {
+        "id": "0",
+        "productName": "Gigabyte GeForce GV-N710D3-2GL 2GB PCI-Express Graphics Card (Black)",
+        "image": "g1.jpg",
+        "company":"Gigabyte",
+        "price": "3499",
+        "description": "CLOCK:954 Mhz"
+    },
+    {
+        "id": "1",
+        "productName": "ASUS Cerberus GeForce GTX 1050 CLOCK:1455 MHz, Ti 4GB OC Edition",
+        "image": "g2.jpg",
+        "company": "ASUS",
+        "price": "14,890",
+        "description": "GTX 1050 TI, GDDR5 Gaming Graphics Card (Cerberus-GTX1050Ti-O4G)"
+    },
+
+    {
+        "id": "2",
+        "productName": "Zotac Nvidia GT 1030 2GB GDDR5 64-Bit DVI-D HDMI Retail Graphic card / Pascal / Firestorm / 384 Cuda core /DirectX 12",
+        "image": "g3.jpg",
+        "company": "Zotac",
+        "price": "7298",
+        "description": "CUDA CORE:384, CLOCK:6.0 GHz"
+    },
+    {
+        "id": "3",
+        "productName": "Sapphire 11265-05-20G Radeon Pulse RX 580 ",
+        "image": "g4.jpg",
+        "company": "Sapphire",
+        "price": "21399",
+        "description": "CLOCK:2000 Mhz.CLOCK:2000MHz to 8000MHz , 8GB GDDR5 Dual HDMI/DVI-D/Dual DP OC with Backplate (UEFI) PCI-E Graphics Card"
+    },
+   
+    {
+        "id": "4",
+        "productName": "MSI AMD Radeon R7 240 2GB DDR3 VGA/DVI/HDMI Low Profile PCI-Express Video Card",
+        "image": "g5.jpg",
+        "company": "MSI",
+        "price": "2990",
+        "description": "2048MB DDR3 1800MHz Memory,CLOCK:730 MHz"
+    },
+    {
+        "id": "5",
+        "productName": "Inno3D Nvidia Gaming Geforce GTX 1660 Ti Twin X2 6Gb Gddr6 Graphic Card",  
+        "image": "g6.jpg",
+        "company": "Nvidia",
+        "price": "21399",
+        "description": "Maximum 5  outputs, 2304 stream processors"
+    },
+    {
+        "id": "6",
+        "productName": "Asus COMPUTER INTL PH-GTX1050TI-4G PCIe Graphics Card",  
+        "image": "g7.jpg",
+        "company": "Asus",
+        "price": "25999",
+        "description": "RAM Size:4 GB, Automated production process"
+    },
+    {
+        "id": "7",
+        "productName": "ASUS GeForce® GTX 1660 Ti OC Edition 6GB GDDR6 Graphic Card",  
+        "image": "g8.jpg",
+        "company": "Asus",
+        "price": "27470",
+        "description": "NVIDIA Turing architecture"
+    }
+   
+   
+]
+
+

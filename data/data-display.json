@@ -1,0 +1,71 @@
+[
+    {
+        "id": "0",
+        "productName": "Logitech MX Anywhere 2S Wireless Mouse",
+        "image": "mouse1.jpg",
+        "company": "Logitech",
+        "price": "4899",
+        "description": "Wireless, 70 days of power 1 charge"
+    },
+    {
+        "id": "1",
+        "productName": "Logitech G 304 Wireless Gaming Mouse (Black)  ",
+        "image": "mouse2.jpg",
+        "company": "Logitech",
+        "price": "3499",
+        "description": "Wireless,  resolution:200-12000 dpi"
+    },
+    {
+        "id": "2",
+        "productName": "Logitech 502 Hero Gaming Mouse (Black) HR125",
+        "image": "mouse3.jpg",
+        "company": "Logitech",
+        "price": "3999",
+        "description": "Wireless, Up to 16000 dpi Gaming mouse"
+    },
+
+    {
+        "id": "3",
+        "productName": "Logitech MS 116 Wired Optical Mouse ",
+        "image": "mouse4.jpg",
+        "company": "Logiytech",
+        "price": "291",
+        "description": "USB controlled and simple to use and set up"
+    },
+  
+    {
+        "id": "5",
+        "productName": "Microsoft ELG-00001 Arc Mouse (Black)",
+        "image": "mouse6.jpg",
+        "company": "Microsoft",
+        "price": "2800",
+        "description": "Wireless, range: 32.8 feet Simple to use"
+    },
+    {
+        "id": "6",
+        "productName": "Asus ROG Spatha Wireless Gaming Mouse",
+        "image": "mouse7.jpg",
+        "company": "Asus",
+        "price": "14500",
+        "description": "Wireless, Suitable for gaming and MultiTasking Purpose"
+    },
+    {
+        "id": "7",
+        "productName": "Dragonwar ELE-G9 Thor BlueTrack",  
+        "image": "mouse8.jpg",
+        "company": "Dragonwar",
+        "price": "3490",
+        "description": "Wireless,800-3200 dpi, Blue Sensor Gaming Mouse with Macro function"
+    },
+    {
+        "id": "8",
+        "productName":"HP 201 Wireless Mouse (Smoke Grey)",  
+        "image": "mouse9.jpg",
+        "company": "HP",
+        "price": "699",
+        "description": "Wireless, 2.4Ghz connectiom ,2 AAA batteries and Quick Start poster"
+    }
+   
+]
+
+

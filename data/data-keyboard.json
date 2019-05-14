@@ -1,0 +1,55 @@
+[
+    {
+        "id": "0",
+        "productName": "AmazonBAsics Wired Keyboard(Black)",
+        "image": "(2).jpg",
+        "company":"Amazon",
+        "price": "599",
+        "description": "Low profile keys, provide a quite and comforatble experience .Wired"
+    },
+    {
+        "id": "1",
+        "productName": "Plutofit Portable  USB Keyboard (Black)",
+        "image": "(3).jpg",
+        "company": "Plutofit",
+        "price": "699",
+        "description": "Wireless, Ultra Slim and lightWeight. Foldable and waterproof"
+    },
+
+    {
+        "id": "2",
+        "productName": "Amkette Xcite Pro USB Keyboard (Black)",
+        "image": "(4).jpg",
+        "company": "Amkette",
+        "price": "391",
+        "description": "Wireless,Spill resistant and noiseless operation with inbuild Autokeys"
+    },
+    {
+        "id": "3",
+        "productName": "Intex Corona Plus USB Keyboard (Black)",
+        "image": "(5).jpg",
+        "company": "Intex",
+        "price": "251",
+        "description": "Wireless, laser key printing and stylish design"
+    },
+   
+    {
+        "id": "4",
+        "productName": "Logitech K400 Plus Wireless Keyboard (Black)",
+        "image": "(7).jpg",
+        "company": "Logitech",
+        "price": "2430",
+        "description": "Wireless, 10m range"
+    },
+    {
+        "id": "5",
+        "productName": "Dell KM117 Wireless Laptop Keyboard  (Black)",  
+        "image": "(10).jpg",
+        "company": "DELL",
+        "price": "1499",
+        "description": "Wireless, built-in 3.5 inch touchpad"
+    }
+   
+]
+
+
